@@ -1837,6 +1837,8 @@ const L = {
   layoffsfyi_desc: "A real-time tracker of tech industry layoffs, aggregating data from public sources to increase transparency and help affected workers connect with recruiters.",
   adp_name: "ADP",
   adp_desc: "Opens ADP, a major U.S. provider of payroll, HR, and workforce management solutions.",
+  tacojohns_careers_name: "Taco John's Careers",
+  tacojohns_careers_desc: "The official career hub for Taco John's. Search for employment opportunities, apply for restaurant crew or corporate management roles, and explore career growth benefits.",
   food_name: "Food",
   delish_name: "Delish",
   delish_desc: "Delicious recipes, cooking hacks, and food inspiration for every craving and occasion.",
