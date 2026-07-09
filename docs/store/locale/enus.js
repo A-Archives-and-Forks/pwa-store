@@ -229,6 +229,8 @@ const L = {
   wenxin_desc: "Opens Baidu's Wenxin, a multimodal AI platform for writing, images, coding, translation, and more.",
   antafu_name: "Antafu (蚂蚁阿福)",
   antafu_desc: "Opens Antafu (蚂蚁阿福), an AI health assistant from Ant Group offering free health Q&A, report interpretation, and digital medical services.",
+  aizex_name: "Aizex",
+  aizex_desc: "An optimized co-sharing and isolation panel for premium AI accounts, providing a seamless, cost-effective way to access official GPT-4 and Claude workspaces with dedicated privacy.",
   "cursor_name": "Cursor",
   "cursor_desc": "Cursor is an AI-powered coding assistant that helps developers write, refactor, and debug code across platforms. Its autonomous agents can generate files, run terminal commands, and analyze entire codebases—available via web, CLI, and Slack.",
   "outlook_desc": "Webmail and calendar by Microsoft.",

@@ -440,6 +440,15 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://chat.antafu.com/?source=https://pwa-store-7x5.pages.dev"
       },
+      {
+        name: "Aizex",
+        nameKey: "aizex_name",
+        descriptionKey: "aizex_desc",
+        icon: "icons/wrappers/aizex.webp",
+        url2: "../wrappers/aizex",
+        apptype2: "wrapper",
+        url: "https://aizex.net"
+      },
     ]
   },
   {
