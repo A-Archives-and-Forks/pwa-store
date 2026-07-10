@@ -37,6 +37,7 @@ OUTPUT_DIRS = {
 
 WRAPPERS = [
   { "name": "Weather & Climate", "url": "https://weather-and-climate.com", "keyify_name": "weatherclimate", "apptype": "msedge" },
+  { "name": "Zoom Earth", "url": "https://zoom.earth" },
   { "name": "GBMB", "url": "https://www.gbmb.org" },
   { "name": "Base64.Guru", "url": "https://base64.guru", "keyify_name": "base64guru" },
   { "name": "Palform", "url": "https://palform.app" },

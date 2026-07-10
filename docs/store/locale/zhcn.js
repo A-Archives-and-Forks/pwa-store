@@ -156,6 +156,8 @@ const L = {
   typhoonsltzj_desc: "由浙江省水利厅提供，本系统发布最新台风数据，包括实时路径、预报信息和历史记录。",
   weatherclimate_name: "天气与气候 (Weather & Climate)",
   weatherclimate_desc: "Weather‑and‑Climate.com 提供全球各地的气候平均值、天气预报、降雨图表、温度数据以及适合旅行的气候概览，帮助用户比较长期气候趋势与短期天气状况。",
+  zoomearth_name: "Zoom Earth",
+  zoomearth_desc: "令人惊叹的交互式全球天气地图与实时卫星影像平台。提供高清实时气象图、全球风场雷达，并支持对台风、飓风、野火及极端天气进行精准的动态路径追踪。",
   gbmb_name: "GBMB",
   gbmb_desc: "打开 GBMB，一个提供数据、存储和各种单位换算工具的网站。",
   base64guru_name: "Base64.Guru",

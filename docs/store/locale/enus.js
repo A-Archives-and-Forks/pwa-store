@@ -155,6 +155,8 @@ const L = {
   typhoonsltzj_desc: "Provided by the Zhejiang Provincial Department of Water Resources, this system delivers up-to-date typhoon data including live tracking, forecasts, and historical paths.",
   weatherclimate_name: "Weather & Climate",
   weatherclimate_desc: "Weather‑and‑Climate.com provides climate averages, weather forecasts, rainfall charts, temperature data, and travel‑friendly climate summaries for destinations worldwide. It helps users compare long‑term climate patterns and short‑term weather conditions.",
+  zoomearth_name: "Zoom Earth",
+  zoomearth_desc: "A stunning interactive world weather map and real-time satellite imagery platform. Track severe weather, hurricanes, tropical cyclones, wildfires, and live wind patterns globally.",
   gbmb_name: "GBMB",
   gbmb_desc: "Opens GBMB, a site offering calculators and unit converters for data, storage, and measurement values.",
   base64guru_name: "Base64.Guru",

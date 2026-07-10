@@ -302,6 +302,15 @@ export const categories = [
         url2: "../msedge/weatherclimate",
         apptype2: "wrapper",
       },
+      {
+        name: "Zoom Earth",
+        nameKey: "zoomearth_name",
+        descriptionKey: "zoomearth_desc",
+        icon: "icons/wrappers/zoomearth.webp",
+        url2: "../wrappers/zoomearth",
+        apptype2: "wrapper",
+        url: "https://zoom.earth"
+      },
     ]
   },
   {
