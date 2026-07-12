@@ -6494,7 +6494,6 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://www.in-n-out.com"
       },
-
       {
         name: "Taco John's Order",
         nameKey: "tacojohns_order_name",
@@ -6512,6 +6511,15 @@ export const categories = [
         url2: "../wrappers/tacojohns",
         apptype2: "wrapper",
         url: "https://www.tacojohns.com"
+      },
+      {
+        name: "Burger King",
+        nameKey: "bk_name",
+        descriptionKey: "bk_desc",
+        icon: "icons/msedge/bk.webp",
+        url2: "../msedge/bk",
+        apptype2: "wrapper",
+        url: "https://www.bk.com"
       },
       {
         name: "Meituan",
@@ -7379,6 +7387,16 @@ export const categories = [
         url2: "../wrappers/interstride",
         apptype2: "wrapper",
         url: "https://www.interstride.com"
+      },
+      {
+        name: "Burger King China Careers",
+        nameKey: "bk_china_recruitment_name",
+        descriptionKey: "bk_china_recruitment_desc",
+        icon: "icons/wrappers/bk_china_recruitment.webp",
+        url2: "/wrappers/bk_china_recruitment",
+        apptype2: "wrapper",
+        url: "https://app.mokahr.com/social-recruitment/bkchina/164000#/home",
+        hide: true
       },
       {
         name: "BOSS Zhipin",
