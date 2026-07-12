@@ -461,6 +461,8 @@ const L = {
   githubstatus_desc: "打开 GitHub 官方状态页面，查看各项服务的实时可用性、故障事件与历史运行情况。",
   usebottles_name: "UseBottles",
   usebottles_desc: "打开 UseBottles，Bottles 的官方网站，用于轻松管理 Linux 上的 Wine 与 Proton 环境。",
+  moka_name: "Moka",
+  moka_desc: "中国国内的智能化招聘管理系统（ATS）平台。各大名企网申投递、简历状态跟进、校园招聘及社会招聘进度查询的核心入口。",
   keepandroidopen_name: "Keep Android Open",
   keepandroidopen_desc: "打开 Keep Android Open，这是一个反对谷歌开发者验证政策、倡导保持 Android 开放生态的社区行动。",
   jsbin_name: "JSBin",

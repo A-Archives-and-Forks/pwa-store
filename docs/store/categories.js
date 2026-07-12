@@ -2871,7 +2871,15 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://usebottles.com"
       },
-
+      {
+        name: "Moka",
+        nameKey: "moka_name",
+        descriptionKey: "moka_desc",
+        icon: "icons/msedge/moka.webp",
+        url2: "../msedge/moka",
+        apptype2: "wrapper",
+        url: "https://app.mokahr.com"
+      },
     ]
   },
   {

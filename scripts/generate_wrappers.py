@@ -385,6 +385,7 @@ WRAPPERS = [
   { "name": "Public Apis", "url": "https://publicapis.io" },
   { "name": "GitHub Status", "url": "https://www.githubstatus.com" },
   { "name": "UseBottles", "url": "https://usebottles.com" },
+  { "name": "Moka", "url": "https://app.mokahr.com", "apptype": "msedge" },
   { "name": "Keep Android Open", "url": "https://keepandroidopen.org" },
   { "name": "JSBin", "url": "https://jsbin.com" },
   { "name": "DEV Community", "url": "https://dev.to", "keyify_name": "devto" },

@@ -468,6 +468,8 @@ const L = {
   githubstatus_desc: "Opens GitHub Status, the official dashboard showing real‑time service availability, incidents, and historical uptime for GitHub systems.",
   usebottles_name: "UseBottles",
   usebottles_desc: "Opens UseBottles, the official site for Bottles, a Linux tool for managing Wine and Proton environments with ease.",
+  moka_name: "Moka",
+  moka_desc: "An intelligent Applicant Tracking System (ATS) and hiring platform in China. It powers official career portals, job application tracking, and interview scheduling for thousands of enterprises.",
   keepandroidopen_name: "Keep Android Open",
   keepandroidopen_desc: "Opens Keep Android Open, a community campaign opposing Google's developer verification mandate and advocating for an open Android ecosystem.",
   jsbin_name: "JSBin",
