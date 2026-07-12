@@ -214,7 +214,7 @@ WRAPPERS = [
   { "name": "Taco John's Order", "url": "https://order.tacojohns.com", "keyify_name": "tacojohns_order", "icon": "tacojohns.webp" },
   { "name": "Taco John's", "url": "https://www.tacojohns.com", "keyify_name": "tacojohns", "icon": "tacojohns.webp" },
   { "name": "Interstride", "url": "https://www.interstride.com" },
-  { "name": "Burger King", "url": "https://www.bk.com", "keyify_name": "bk" },
+  { "name": "Burger King", "url": "https://www.bk.com", "keyify_name": "bk", "apptype": "msedge" },
   { "name": "Burger King China Careers", "url": "https://app.mokahr.com/social-recruitment/bkchina/164000#/home", "keyify_name": "bk_china_recruitment", "icon": "bk.webp" },
   { "name": "Luckin Coffee", "url": "https://in.luckincoffee.com", "keyify_name": "luckin" },
   { "name": "Bosideng", "url": "https://www.bosidengfashion.com" },
