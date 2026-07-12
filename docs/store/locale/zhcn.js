@@ -100,6 +100,8 @@ const L = {
   calculite_name: "Calculite",
   calculite_desc: "打开 Calculite，一款采用 Material You 风格、带表达式解析器并支持 PWA 安装的网页计算器。",
   "weawow_desc": "无广告天气 PWA，提供精美照片预报、详细的小时和 14 天数据，以及可定制的小组件。",
+  windy_name: "Windy",
+  windy_desc: "全球顶尖的交互式天气预报与可视化气象雷达平台。拥有极其震撼的全球实时风场动画，深度集成多国权威气象模型，提供风力、降雨、气温、台风及极限运动所需的专业级空气动态数据。",
   "screenflashlight_desc": "基于网页的 PWA 手电筒应用。",
   "pwastore_name": "PWA商店",
   "pwastore_desc": "对的，这个PWA商店自身也是个PWA。",

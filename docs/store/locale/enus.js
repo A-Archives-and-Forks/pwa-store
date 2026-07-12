@@ -99,6 +99,8 @@ const L = {
   calculite_name: "Calculite",
   calculite_desc: "Opens Calculite, a Material You–styled web calculator with a built‑in expression parser and PWA support.",
   "weawow_desc": "Ad-free weather PWA with stunning photo forecasts, detailed hourly & 14-day data, and customizable widgets.",
+  windy_name: "Windy",
+  windy_desc: "A world-renowned professional weather forecasting and visualization platform. It provides stunning interactive radar maps, live wind animation, and detailed atmospheric data driven by advanced forecasting models.",
   "screenflashlight_desc": "A web-based PWA flashlight app",
   "pwastore_name": "PWA Store",
   "pwastore_desc": "Yeap, this PWA Store itself is also a PWA.",

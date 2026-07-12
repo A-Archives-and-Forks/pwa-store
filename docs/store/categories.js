@@ -293,6 +293,13 @@ export const categories = [
       },
       { name: "Weawow", icon: "icons/pwa/weawow.webp", url: "https://weawow.com", descriptionKey: "weawow_desc" },
       {
+        name: "Windy",
+        nameKey: "windy_name",
+        descriptionKey: "windy_desc",
+        icon: "icons/pwa/windy.webp",
+        url: "https://www.windy.com"
+      },
+      {
         name: "Weather & Climate",
         nameKey: "weatherclimate_name",
         descriptionKey: "weatherclimate_desc",
