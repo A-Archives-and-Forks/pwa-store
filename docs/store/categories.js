@@ -4576,6 +4576,15 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://streamvaults.ru"
       },
+      {
+        name: "Wyshu (无忧书城)",
+        nameKey: "wyshu_name",
+        descriptionKey: "wyshu_desc",
+        icon: "icons/wrappers/wyshu.webp",
+        url2: "../wrappers/wyshu",
+        apptype2: "wrapper",
+        url: "https://www.wyshu.com"
+      },
     ]
   },
   {

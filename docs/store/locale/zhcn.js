@@ -913,6 +913,8 @@ const L = {
   opensubtitles_desc: "打开 OpenSubtitles，一个提供多语言电影与剧集字幕的平台。",
   streamvaults_name: "StreamVaults",
   streamvaults_desc: "一个流媒体平台，提供丰富的视频内容、电影和数字媒体资源，支持在线观看。",
+  wyshu_name: "无忧书城",
+  wyshu_desc: "为您免费提供在线阅读服务的中文数字文学平台。涵盖古典、现代、外国文学书籍，以及武侠、言情、科幻、都市、悬疑、网络与影视等各类型小说。",
   freevideosplitter_name: "FreeVideoSplitter (免费视频分割)",
   freevideosplitter_desc: "打开 FreeVideoSplitter，一个无需安装软件即可在线分割视频的工具。",
   mediatools_name: "媒体工具",

@@ -917,6 +917,8 @@ const L = {
   opensubtitles_desc: "Opens OpenSubtitles, a multilingual subtitle platform for movies and TV series.",
   streamvaults_name: "StreamVaults",
   streamvaults_desc: "A streaming platform offering a wide variety of video content, movies, and digital media for online viewing.",
+  wyshu_name: "Wyshu (无忧书城)",
+  wyshu_desc: "A Chinese comprehensive free online reading platform offering a vast collection of classic literature, modern fiction, sci-fi, wuxia, romance, and mystery web novels.",
   freevideosplitter_name: "FreeVideoSplitter",
   freevideosplitter_desc: "Opens FreeVideoSplitter, an online tool for splitting video files without installing software.",
   mediatools_name: "Media Tools",
