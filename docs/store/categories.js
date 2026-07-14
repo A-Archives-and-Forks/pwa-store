@@ -1144,6 +1144,13 @@ export const categories = [
         url: "https://buildkite.com/dashboard"
       },
       {
+        name: "Buildkite LLVM",
+        nameKey: "buildkite_llvm_name",
+        descriptionKey: "buildkite_llvm_desc",
+        icon: "icons/pwa/buildkite.webp",
+        url: "https://buildkite.com/llvm-project"
+      },
+      {
         name: "Visual Studio Developer Community",
         nameKey: "vsdevcomm_name",
         descriptionKey: "vsdevcomm_desc",

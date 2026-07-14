@@ -416,6 +416,8 @@ const L = {
   webserialterminal_desc: "Opens Web Serial Terminal, a browser-based serial terminal using the Web Serial API.",
   buildkite_name: "Buildkite",
   buildkite_desc: "A powerful dashboard for managing fast, secure, and scalable continuous integration and deployment (CI/CD) pipelines.",
+  buildkite_llvm_name: "Buildkite LLVM",
+  buildkite_llvm_desc: "The official continuous integration (CI) and build pipeline dashboard for the LLVM Project. Monitor real-time compilation status, automated test suites, and build stability across various target architectures.",
   vsdevcomm_name: "Visual Studio Developer Community",
   vsdevcomm_desc: "The official Microsoft platform for developers to report bugs, suggest new features, and track issues for Visual Studio, .NET, C++, and related development tools.",
   chromiumdash_name: "Chromium Dash",

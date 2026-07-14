@@ -417,6 +417,8 @@ const L = {
   webserialterminal_desc: "打开 Web Serial Terminal，一个基于 Web Serial API 的浏览器串口终端工具。",
   buildkite_name: "Buildkite",
   buildkite_desc: "一个功能强大的仪表板，用于管理快速、安全且可扩展的持续集成与部署 (CI/CD) 流水线。",
+  buildkite_llvm_name: "Buildkite LLVM",
+  buildkite_llvm_desc: "LLVM 编译器开源项目的官方持续集成（CI）与构建流水线看板。实时监控各个目标架构下的编译状态、自动化测试集运行情况及代码分支稳定性。",
   vsdevcomm_name: "Visual Studio 开发者社区 (Visual Studio Developer Community)",
   vsdevcomm_desc: "微软官方的开发者反馈与交流平台。用于提交 Bug、提出新功能建议、追踪反馈进度，并与 Visual Studio、.NET 及 C++ 编译器工程团队直接互动。",
   chromiumdash_name: "Chromium Dash",
