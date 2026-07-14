@@ -1810,6 +1810,8 @@ const L = {
   interstride_desc: "专为国际留学生打造的一站式职业发展与求职赋能平台。提供留学生友好的职位检索、签证抽签与政策追踪数据、赞助雇主数据库及跨国求职指导资源。",
   bk_china_recruitment_name: "汉堡王中国招聘",
   bk_china_recruitment_desc: "汉堡王（Burger King）中国官方社会招聘门户。提供全职管理、门店营运及总部各类岗位的网申投递入口，并可在线跟进面试与录用进度。",
+  madeinchina_name: "中国制造网",
+  madeinchina_desc: "面向全球的跨国 B2B 电子商务与外贸批发采购平台。致力于连接全网采购商与中国本土制造商及出口供应商，涵盖多品类工业制造与大宗商品源头工厂。",
   bosideng_name: "波司登",
   bosideng_desc: "波司登是其官方线上商店，提供高端羽绒服及男女童季节性服饰，涵盖国际系列、保暖等级说明，并支持全球配送。",
   housing_name: "房地产",

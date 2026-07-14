@@ -217,6 +217,7 @@ WRAPPERS = [
   { "name": "Interstride", "url": "https://www.interstride.com" },
   { "name": "Burger King", "url": "https://www.bk.com", "keyify_name": "bk", "apptype": "msedge" },
   { "name": "Burger King China Careers", "url": "https://app.mokahr.com/social-recruitment/bkchina/164000#/home", "keyify_name": "bk_china_recruitment", "icon": "bk.webp" },
+  { "name": "Made-in-China.com", "url": "https://www.made-in-china.com", "apptype": "msedge", "keyify_name": "madeinchina" },
   { "name": "Luckin Coffee", "url": "https://in.luckincoffee.com", "keyify_name": "luckin" },
   { "name": "Bosideng", "url": "https://www.bosidengfashion.com" },
   { "name": "Gmail", "url": "https://mail.google.com" },
