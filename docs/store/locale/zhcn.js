@@ -1481,6 +1481,8 @@ const L = {
   chinwag_desc: "打开 ChinWag，这是 pluralistic.net 的官方讨论区，聚焦科技、政治、经济与 Cory Doctorow 最新文章的社区交流。",
   plexforums_name: "Plex 论坛",
   plexforums_desc: "打开 Plex 官方论坛，一个用于支持、故障排查和媒体服务器讨论的社区平台。",
+  looksmax_name: "Looksmax.org",
+  looksmax_desc: "知名的海外男性外貌提升与自我改善讨论论坛。专注于面部美学分析、健身、护肤、穿搭以及个人整体形象的塑造与交流。",
   ra2diy_name: "红警DIY",
   ra2diy_desc: "一个专注于《红色警戒2》修改与定制的社区论坛，提供工具、教程与玩家作品分享。",
   v2ex_name: "V2EX",

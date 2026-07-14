@@ -5349,6 +5349,13 @@ export const categories = [
         url: "https://forums.plex.tv"
       },
       {
+        name: "Looksmax.org",
+        nameKey: "looksmax_name",
+        descriptionKey: "looksmax_desc",
+        icon: "icons/pwa/looksmax.webp",
+        url: "https://looksmax.org"
+      },
+      {
         name: "RA2 DIY",
         nameKey: "ra2diy_name",
         descriptionKey: "ra2diy_desc",
