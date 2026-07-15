@@ -81,6 +81,8 @@ const L = {
   coindesk_desc: "打开 CoinDesk，一个提供加密货币新闻、区块链分析和数字资产市场动态的领先网站。",
   coinbase_name: "Coinbase",
   coinbase_desc: "安全在线交易平台，支持数字货币与股票的购买、销售、转账及存储。",
+  stockmvp_name: "StockMVP",
+  stockmvp_desc: "现代化的股票研究与基本面分析平台。提供直观的财务数据可视化、股票筛选工具及核心估值指标，辅助投资者进行数据驱动的投资决策。",
   atimelogger_name: "aTimerLogger",
   atimelogger_desc: "一款时间记录应用，用于追踪日常活动、习惯与效率表现。支持自定义分类、图表分析及导出功能，适用于个人或专业场景。",
   "microsoft_services_name": "微软服务",

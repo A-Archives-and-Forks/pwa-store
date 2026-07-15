@@ -69,6 +69,8 @@ const L = {
   coindesk_desc: "Opens CoinDesk, a leading source for cryptocurrency news, blockchain analysis, and digital asset market updates.",
   coinbase_name: "Coinbase",
   coinbase_desc: "A secure online platform for buying, selling, transferring, and storing digital currency and stocks.",
+  stockmvp_name: "StockMVP",
+  stockmvp_desc: "A modern stock research and fundamental analysis platform. It provides clean financial visualizations, stock screening tools, and key valuation metrics to help investors make data-driven decisions.",
   atimelogger_name: "aTimerLogger",
   atimelogger_desc: "A time tracking app for logging daily activities, habits, and productivity. Supports custom categories, charts, and export options for personal or professional use.",
   "stackwatch_desc": "Track vulnerabilities and security updates across software stacks.",

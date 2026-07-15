@@ -2427,6 +2427,13 @@ export const categories = [
         url: "https://www.coinbase.com"
       },
       {
+        name: "StockMVP",
+        nameKey: "stockmvp_name",
+        descriptionKey: "stockmvp_desc",
+        icon: "icons/pwa/stockmvp.webp",
+        url: "https://stock-mvp.com"
+      },
+      {
         name: "Capital One",
         nameKey: "capitalone_name",
         descriptionKey: "capitalone_desc",
