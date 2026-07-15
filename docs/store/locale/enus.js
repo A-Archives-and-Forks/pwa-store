@@ -1811,6 +1811,8 @@ const L = {
   tacojohns_desc: "The official portal for Taco John's, home of the legendary Potato Olés®. Browse the flavorful Tex-Mex menu, check ongoing deals, and discover the 'Olés & A Lot More' flavor legacy.", 
   bk_name: "Burger King",
   bk_desc: "The official portal for Burger King, Home of the Whopper®. Order online for quick pickup or delivery, explore the menu, and unlock exclusive rewards through Royal Perks.",
+  madeinchina_name: "Made-in-China.com",
+  madeinchina_desc: "A comprehensive global B2B e-commerce platform connecting international buyers with Chinese suppliers, manufacturers, and wholesale exporters across various industries.",
   interstride_name: "Interstride",
   interstride_desc: "A comprehensive career platform tailored for international students. It provides job search tools, visa insight tracking, cap-exempt employer databases, and career resources to navigate the global job market.",
   bk_china_recruitment_name: "Burger King China Careers",

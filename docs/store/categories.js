@@ -6554,6 +6554,15 @@ export const categories = [
         url: "https://www.bk.com"
       },
       {
+        name: "Made-in-China.com",
+        nameKey: "madeinchina_name",
+        descriptionKey: "madeinchina_desc",
+        icon: "icons/msedge/madeinchina.webp",
+        url2: "../msedge/madeinchina",
+        apptype2: "wrapper",
+        url: "https://www.made-in-china.com"
+      },
+      {
         name: "Meituan",
         nameKey: "meituan_name",
         descriptionKey: "meituan_desc",
