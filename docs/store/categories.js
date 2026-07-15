@@ -1250,6 +1250,15 @@ export const categories = [
         apptype2: "wrapper"
       },
       {
+        name: "WebAssembly Opcodes",
+        nameKey: "wasm_chart_name",
+        descriptionKey: "wasm_chart_desc",
+        icon: "icons/wrappers/wasm_chart.webp",
+        url2: "../wrappers/wasm_chart",
+        apptype2: "wrapper",
+        url: "https://wasm-chart.pengowray.com"
+      },
+      {
         name: "GeeksForGeeks",
         icon: "icons/wrappers/geeksforgeeks.webp",
         url2: "../wrappers/geeksforgeeks",

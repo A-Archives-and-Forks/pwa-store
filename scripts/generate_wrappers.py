@@ -374,6 +374,7 @@ WRAPPERS = [
   { "name": "MarketWatch", "url": "https://www.marketwatch.com" },
   { "name": "24/7 Wall St.", "url": "https://247wallst.com", "keyify_name": "247wallst" },
   { "name": "WebAssembly", "url": "https://webassembly.org" },
+  { "name": "WebAssembly Opcodes", "url": "https://wasm-chart.pengowray.com", "keyify_name": "wasm_chart", "icon": "webassembly.webp" },
   { "name": "GeeksForGeeks", "url": "https://www.geeksforgeeks.org" },
   { "name": "Aurora Store", "url": "https://store.auroraoss.com", "keyify_name":"aurorastore" },
   { "name": "WeChat Devs", "url": "https://developers.weixin.qq.com", "keyify_name": "wechatdevelopers"},
