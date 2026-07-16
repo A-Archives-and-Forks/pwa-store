@@ -5094,6 +5094,15 @@ export const categories = [
         url: "https://gamehistory.org"
       },
       {
+        name: "Wipefest",
+        nameKey: "wipefest_name",
+        descriptionKey: "wipefest_desc",
+        icon: "icons/wrappers/wipefest.webp",
+        url2: "../wrappers/wipefest",
+        apptype2: "wrapper",
+        url: "https://www.wipefest.gg"
+      },
+      {
         name: "World of Warcraft (China)",
         nameKey: "wowchina_name",
         descriptionKey: "wowchina_desc",

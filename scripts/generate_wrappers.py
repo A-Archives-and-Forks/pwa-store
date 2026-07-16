@@ -293,6 +293,7 @@ WRAPPERS = [
   { "name": "RA2: Chrono Divide", "url": "https://game.chronodivide.com", "keyify_name": "chronodivide" },
   { "name": "WoW Token Prices", "url": "https://wowtoken.app", "keyify_name": "wowtoken" },
   { "name": "Video Game History Foundation", "url": "https://gamehistory.org", "keyify_name": "vghf" },
+  { "name": "Wipefest", "url": "https://www.wipefest.gg" },
   { "name": "Floppy Bird", "url": "https://nebezb.com/floppybird" },
   { "name": "Eaglercraft", "url": "https://eaglercraft.com" },
   { "name": "D3Wasm Doom", "url": "https://wasm.continuation-labs.com/d3demo", "keyify_name": "d3wasm" },

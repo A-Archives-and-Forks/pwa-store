@@ -1369,6 +1369,8 @@ const L = {
   wowtoken_desc: "Real-time price tracking for World of Warcraft tokens across regions (NA, EU, KR and TW).",
   vghf_name: "Video Game History Foundation",
   vghf_desc: "The official platform of the non-profit organization dedicated to preserving, documenting, and teaching the history of video games through archival research, digital preservation, and historical media conservation.",
+  wipefest_name: "Wipefest",
+  wipefest_desc: "An essential mechanical analysis and pull-retrospective tool for World of Warcraft raiders. It integrates with Warcraft Logs to simplify complex combat data into clean timelines, helping teams optimize raid performance and understand wipes.",
   chronodivide_name: "RA2: Chrono Divide",
   chronodivide_desc: "RA2: Chrono Divide is a fan-made, browser-based tribute to the classic Command & Conquer: Red Alert 2. It faithfully recreates the real-time strategy experience with smooth online multiplayer, iconic units, and nostalgic visuals—all without needing to install a thing. Whether you're commanding Soviet forces or leading Allied troops, Chrono Divide lets you relive the tactical thrill of chrono technology and battlefield domination, right from your browser.",
   floppybird_name: "Floppy Bird",
