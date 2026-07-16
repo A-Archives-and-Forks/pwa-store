@@ -5085,6 +5085,15 @@ export const categories = [
         url: "https://wowtoken.app"
       },
       {
+        name: "Video Game History Foundation",
+        nameKey: "vghf_name",
+        descriptionKey: "vghf_desc",
+        icon: "icons/wrappers/vghf.webp",
+        url2: "../wrappers/vghf",
+        apptype2: "wrapper",
+        url: "https://gamehistory.org"
+      },
+      {
         name: "World of Warcraft (China)",
         nameKey: "wowchina_name",
         descriptionKey: "wowchina_desc",

@@ -1367,6 +1367,8 @@ const L = {
   tsukidev_desc: "The development and preview branch of Tsukihime Web. Play the legendary Type-Moon visual novel 'Tsukihime (2000)' directly in your browser with cross-device save importing and multi-language community translations.",
   wowtoken_name: "WoW Token Prices",
   wowtoken_desc: "Real-time price tracking for World of Warcraft tokens across regions (NA, EU, KR and TW).",
+  vghf_name: "Video Game History Foundation",
+  vghf_desc: "The official platform of the non-profit organization dedicated to preserving, documenting, and teaching the history of video games through archival research, digital preservation, and historical media conservation.",
   chronodivide_name: "RA2: Chrono Divide",
   chronodivide_desc: "RA2: Chrono Divide is a fan-made, browser-based tribute to the classic Command & Conquer: Red Alert 2. It faithfully recreates the real-time strategy experience with smooth online multiplayer, iconic units, and nostalgic visuals—all without needing to install a thing. Whether you're commanding Soviet forces or leading Allied troops, Chrono Divide lets you relive the tactical thrill of chrono technology and battlefield domination, right from your browser.",
   floppybird_name: "Floppy Bird",
