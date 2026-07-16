@@ -315,6 +315,8 @@ const L = {
   nanocell_csv_desc: "A lightweight CSV editor that allows you to view, filter, and edit large data files without uploading them to a server.",
   pdfgem_name: "PDFGem",
   pdfgem_desc: "A fast and secure PDF utility for merging, splitting, and managing PDF documents locally.",
+  fileverse_docs_name: "Fileverse Docs",
+  fileverse_docs_desc: "A decentralized and privacy-first collaborative writing platform. It features end-to-end encryption, multi-user real-time editing, and secure storage powered by peer-to-peer web protocols.",
   dingtalk_name: "DingTalk",
   dingtalk_desc: "Enterprise communication and collaboration platform by Alibaba, integrating messaging, meetings, and workflow tools.",
   "programming_name": "Programming",

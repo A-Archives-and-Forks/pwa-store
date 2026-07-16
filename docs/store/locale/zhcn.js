@@ -314,6 +314,8 @@ const L = {
   nanocell_csv_desc: "一个轻量级的 CSV 编辑器，无需上传服务器即可查看、过滤和编辑大型数据文件。",
   pdfgem_name: "PDFGem",
   pdfgem_desc: "一个快速且安全的 PDF 工具，用于在本地进行 PDF 文档的合并、拆分和管理。",
+  fileverse_docs_name: "Fileverse Docs",
+  fileverse_docs_desc: "主打隐私安全与去中心化的多人在线协同文档平台。支持端到端加密、点对点实时协作，并基于去中心化网络进行安全存储，确保用户对个人数据的绝对控制权。",
   excalidraw_name: "Excalidraw",
   excalidraw_desc: "Excalidraw 是一款具有手绘风格的虚拟白板，适合头脑风暴、教学和可视化思维。支持快速协作，注重隐私保护。",
   dingtalk_name: "钉钉",
