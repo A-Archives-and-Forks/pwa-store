@@ -2337,6 +2337,8 @@ const L = {
   parliamentlive_desc: "The official live and on-demand broadcasting service for the UK Parliament, covering debates, committee hearings, and sessions from the House of Commons and House of Lords.",
   srnnews_name: "SRN News",
   srnnews_desc: "The digital platform for Salem Radio Network News, providing 24/7 comprehensive news coverage, breaking updates, and conservative talk radio insights.",
+  bluewin_name: "Bluewin",
+  bluewin_desc: "A major Swiss news and lifestyle portal. Stay updated with Swiss and global news, entertainment, sports, and weather, alongside easy access to the popular Bluewin Mail service.",
 
 
 // WeChat Mini Programs

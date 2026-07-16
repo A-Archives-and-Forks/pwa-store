@@ -589,6 +589,7 @@ WRAPPERS = [
   { "name" : "The Straits Times", "url": "https://www.straitstimes.com", "keyify_name": "straitstimes" },
   { "name": "Parliamentlive.tv", "url": "https://parliamentlive.tv", "keyify_name": "parliamentlive" },
   { "name": "SRN News", "url": "https://srnnews.com" },
+  { "name": "Bluewin", "url": "https://www.bluewin.ch" },
 
 #  { "name" : "Proxy SwitchyOmega (V3)", "url": "extension://fnbemgdobbciiofjfaoaajboakejkdbo/options.html", "keyify_name": "proxyswitchyomegav3" , "apptype": "extension" },
 ]

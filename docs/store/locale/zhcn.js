@@ -2338,6 +2338,8 @@ const L = {
   parliamentlive_desc: "英国议会官方网络直播与点播平台，提供英国下议院、上议院以及各大委员会辩论、听证会和会议的实时音视频转播与历史回放。",
   srnnews_name: "SRN News",
   srnnews_desc: "美国沙隆广播网（Salem Radio Network）旗下新闻平台，提供 24/7 全天候全面新闻报道、突发事件更新以及保守派广播电台视角资讯。",
+  bluewin_name: "Bluewin",
+  bluewin_desc: "瑞士主流的综合新闻与生活门户网站。提供瑞士本土及国际新闻、体育赛事、娱乐资讯与天气预报，同时也是畅销的 Bluewin 安全邮箱服务的官方入口。",
 
 
 // WeChat Mini Programs

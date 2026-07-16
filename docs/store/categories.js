@@ -4470,6 +4470,15 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://srnnews.com"
       },
+      {
+        name: "Bluewin",
+        nameKey: "bluewin_name",
+        descriptionKey: "bluewin_desc",
+        icon: "icons/wrappers/bluewin.webp",
+        url2: "../wrappers/bluewin",
+        apptype2: "wrapper",
+        url: "https://www.bluewin.ch"
+      },
     ]
   },
   {
