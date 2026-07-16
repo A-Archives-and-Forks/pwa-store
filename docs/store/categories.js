@@ -7724,7 +7724,9 @@ export const categories = [
         nameKey: "richarddawkinsfoundation_name",
         descriptionKey: "richarddawkinsfoundation_desc",
         icon: "icons/wrappers/richarddawkinsfoundation.webp",
-        url: "https://richarddawkins.net"
+        url: "https://richarddawkins.net",
+        url2: "../wrappers/richarddawkinsfoundation",
+        apptype2: "wrapper"
       },
       {
         name: "Lyc8503's blog",
@@ -7749,7 +7751,6 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://herbsutter.com"
       },
-
       {
         name: "GoFundMe",
         nameKey: "gofundme_name",
@@ -7932,6 +7933,15 @@ export const categories = [
         url2: "../wrappers/amd",
         apptype2: "wrapper",
         url: "https://www.amd.com"
+      },
+      {
+        name: "Defend Girls",
+        nameKey: "defendgirls_name",
+        descriptionKey: "defendgirls_desc",
+        icon: "icons/wrappers/defendgirls.webp",
+        url2: "../wrappers/defendgirls",
+        apptype2: "wrapper",
+        url: "https://www.defendgirls.com"
       },
       {
         name: "AMD AI Research Club (AMD AI 研习社)",

@@ -2340,6 +2340,8 @@ const L = {
   srnnews_desc: "美国沙隆广播网（Salem Radio Network）旗下新闻平台，提供 24/7 全天候全面新闻报道、突发事件更新以及保守派广播电台视角资讯。",
   bluewin_name: "Bluewin",
   bluewin_desc: "瑞士主流的综合新闻与生活门户网站。提供瑞士本土及国际新闻、体育赛事、娱乐资讯与天气预报，同时也是畅销的 Bluewin 安全邮箱服务的官方入口。",
+  defendgirls_name: "Defend Girls(保护女孩)",
+  defendgirls_desc: "加拿大一项旨在反对性别选择性堕胎的社会倡导运动平台。呼吁推动相关立法以禁止因性别筛选而终止妊娠，致力于保护未出生女婴的生命权益与社会平等意识。",
 
 
 // WeChat Mini Programs
