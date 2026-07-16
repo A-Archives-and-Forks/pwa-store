@@ -6570,6 +6570,15 @@ export const categories = [
         url: "https://www.made-in-china.com"
       },
       {
+        name: "GOG.com",
+        nameKey: "gog_name",
+        descriptionKey: "gog_desc",
+        icon: "icons/wrappers/gog.webp",
+        url2: "../wrappers/gog",
+        apptype2: "wrapper",
+        url: "https://www.gog.com"
+      },
+      {
         name: "Meituan",
         nameKey: "meituan_name",
         descriptionKey: "meituan_desc",
