@@ -286,6 +286,8 @@ const L = {
   googledev_desc: "Opens Google Developers, the official hub for Google APIs, SDKs, documentation, and developer tools.",
   googlekeep_name: "Google Keep",
   googlekeep_desc: "Opens Google Keep, a cloud-based note-taking app for notes, lists, reminders, and quick ideas.",
+  google_finance_name: "Google Finance",
+  google_finance_desc: "A powerful platform for real-time market data, financial news, and global stock tracking. Seamlessly monitor your customized watchlists, analyze your investment portfolios, and leverage AI-powered insights to stay on top of market trends.",
   "gmail_desc": "Google's Mail Services",
   "googletrends_name": "Google Trends",
   "googletrends_desc": "Explore real-time search trends across regions and topics. Google Trends reveals what the world is curious about, from viral news to emerging interests.",

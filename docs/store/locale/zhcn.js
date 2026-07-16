@@ -287,6 +287,8 @@ const L = {
   googledev_desc: "打开 Google Developers，谷歌官方的开发者文档中心，提供 API、SDK 与开发工具。",
   googlekeep_name: "谷歌云笔记(Google Keep)",
   googlekeep_desc: "打开 Google Keep，一个用于笔记、清单、提醒与快速记录的云端笔记工具。",
+  google_finance_name: "谷歌财经(Google Finance)",
+  google_finance_desc: "强大的实时市场数据、财经新闻与全球股市追踪平台。支持无缝监控自定义自选股，全新支持导入并管理个人投资组合，并通过内置的 AI 助手快速剖析持仓配比与市场趋势。",
   "gmail_desc": "谷歌的邮件服务。",
   "googletrends_name": "谷歌趋势(Google Trends)",
   "googletrends_desc": "按地区和主题探索实时搜索趋势。谷歌趋势展示全球关注的热点，从爆炸性新闻到新兴兴趣。",

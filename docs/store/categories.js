@@ -657,6 +657,13 @@ export const categories = [
         icon: "icons/pwa/googlekeep.webp",
         url: "https://keep.google.com"
       },
+      {
+        name: "Google Finance",
+        nameKey: "google_finance_name",
+        descriptionKey: "google_finance_desc",
+        icon: "icons/pwa/google_finance.webp",
+        url: "https://www.google.com/finance"
+      },
       { name: "Gmail", icon: "icons/wrappers/gmail.webp", url2: "../wrappers/gmail", descriptionKey: "gmail_desc", apptype2: "wrapper", url: "https://mail.google.com" },
       { name: "Google Trends", icon: "icons/wrappers/googletrends.webp", url2: "../wrappers/googletrends", descriptionKey: "googletrends_desc", apptype2: "wrapper", url: "https://trends.google.com" },
       {
