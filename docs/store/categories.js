@@ -774,6 +774,13 @@ export const categories = [
         hide: true
       },
       {
+        name: "Fileverse Docs",
+        nameKey: "fileverse_docs_name",
+        descriptionKey: "fileverse_docs_desc",
+        icon: "icons/pwa/fileverse_docs.webp",
+        url: "https://docs.fileverse.io"
+      },
+      {
         name: "DingTalk (钉钉)",
         nameKey: "dingtalk_name",
         descriptionKey: "dingtalk_desc",
