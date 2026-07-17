@@ -495,6 +495,8 @@ const L = {
   dailymotion_desc: "全球视频流媒体服务平台，汇集了来自优质发行商的热点新闻、体育赛事和娱乐内容。",
   linuxtoys_name: "Linux.toys",
   linuxtoys_desc: "打开 Linux.toys，一个收集与 Linux 相关的小工具、玩具和实验的网站。",
+  feishu_vc_name: "飞书视频会议",
+  feishu_vc_desc: "飞书视频会议与妙记的轻量化网页入口。支持免客户端在浏览器中发起或加入高清音视频会议，并集成智能语音转文字与会议纪要自动提炼功能，让远程协作更简单高效。",
   neocities_name: "Neocities",
   neocities_desc: "打开 Neocities，一个致敬早期互联网精神的免费静态网站托管平台。",
   agentskills_name: "AgentSkills",

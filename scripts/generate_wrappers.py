@@ -150,6 +150,7 @@ WRAPPERS = [
   { "name": "Spaccamient", "url": "https://spacc-inc.github.io/Spaccamient" },
   { "name": "NewPipe", "url": "https://newpipe.net", "apptype": "msedge" },
   { "name": "Dailymotion", "url": "https://www.dailymotion.com" },
+  { "name": "Feishu Video Conference", "url": "https://vc.feishu.cn/w", "apptype": "msedge", "keyify_name": "feishu_vc", "icon": "feishu.webp" },
   { "name": "Kook", "url": "https://www.kookapp.cn/app/" },
   { "name": "Tieba", "url": "https://tieba.baidu.com" },
   { "name": "Termux", "url": "https://termux.dev" },

@@ -2216,6 +2216,15 @@ export const categories = [
         url: "https://www.dailymotion.com"
       },
       {
+        name: "Feishu Video Conference(飞书视频会议)",
+        nameKey: "feishu_vc_name",
+        descriptionKey: "feishu_vc_desc",
+        icon: "icons/msedge/feishu_vc.webp",
+        url2: "../msedge/feishu_vc",
+        apptype2: "wrapper",
+        url: "https://vc.feishu.cn/w"
+      },
+      {
         name: "Tencent Meeting (腾讯会议)",
         nameKey: "tencentmeeting_name",
         icon: "icons/wechatmini/tencentmeeting.webp",
