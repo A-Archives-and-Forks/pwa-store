@@ -2219,7 +2219,7 @@ export const categories = [
         name: "Feishu Video Conference(飞书视频会议)",
         nameKey: "feishu_vc_name",
         descriptionKey: "feishu_vc_desc",
-        icon: "icons/msedge/feishu_vc.webp",
+        icon: "icons/msedge/feishu.webp",
         url2: "../msedge/feishu_vc",
         apptype2: "wrapper",
         url: "https://vc.feishu.cn/w"
