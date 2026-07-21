@@ -4039,6 +4039,13 @@ export const categories = [
         url: "https://english.elpais.com"
       },
       {
+        name: "Disclose.tv",
+        nameKey: "disclose_tv_name",
+        descriptionKey: "disclose_tv_desc",
+        icon: "icons/pwa/disclose_tv.webp",
+        url: "https://www.disclose.tv"
+      },
+      {
         name: "FactCheck.org",
         nameKey: "factcheck_name",
         descriptionKey: "factcheck_desc",

@@ -1133,6 +1133,8 @@ const L = {
   elpais_desc: "西班牙语世界第一大日报。提供权威的全球新闻报道、高质量的深度评论以及针对西班牙和拉丁美洲地区的实时时事动态分析。",
   elpais_english_name: "EL PAÍS 英文版 (EL PAÍS English)",
   elpais_english_desc: "西班牙第一大日报《国家报》（EL PAÍS）的官方英文频道。提供全面的新闻报道、全球时事分析以及针对西班牙和拉丁美洲地区的深度报道。",
+  disclose_tv_name: "Disclose.tv",
+  disclose_tv_desc: "独立的非主流新闻聚合与社区讨论平台。主打实时突发新闻、全球热点事件及替代视角的快速追踪与讨论。",
   devdiscourse_name: "Devdiscourse",
   devdiscourse_desc: "打开 Devdiscourse，一个报道全球发展、科技、政策、环境与国际事务的新闻平台。",
   factcheck_name: "FactCheck.org",
