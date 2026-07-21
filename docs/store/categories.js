@@ -4495,6 +4495,15 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://www.bluewin.ch"
       },
+      {
+        name: "The Tonga Independent",
+        nameKey: "tonga_independent_name",
+        descriptionKey: "tonga_independent_desc",
+        icon: "icons/wrappers/tonga_independent.webp",
+        url2: "../wrappers/tonga_independent",
+        apptype2: "wrapper",
+        url: "https://tongaindependent.com"
+      },
     ]
   },
   {

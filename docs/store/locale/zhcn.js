@@ -2346,6 +2346,8 @@ const L = {
   bluewin_desc: "瑞士主流的综合新闻与生活门户网站。提供瑞士本土及国际新闻、体育赛事、娱乐资讯与天气预报，同时也是畅销的 Bluewin 安全邮箱服务的官方入口。",
   defendgirls_name: "Defend Girls(保护女孩)",
   defendgirls_desc: "加拿大一项旨在反对性别选择性堕胎的社会倡导运动平台。呼吁推动相关立法以禁止因性别筛选而终止妊娠，致力于保护未出生女婴的生命权益与社会平等意识。",
+  tonga_independent_name: "Tonga Independent(汤加独立报)",
+  tonga_independent_desc: "关注汤加王国及太平洋岛国地区的独立新闻与时事资讯平台。提供本土政治、经济、社会文化及环境议题的全方位报道。",
 
 
 // WeChat Mini Programs

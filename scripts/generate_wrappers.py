@@ -268,6 +268,7 @@ WRAPPERS = [
   { "name": "DocuSign", "url": "https://www.docusign.com", "apptype": "msedge" },
   { "name": "Richard Dawkins Foundation", "url": "https://richarddawkins.net" },
   { "name": "Defend Girls", "url": "https://www.defendgirls.com" },
+  { "name": "Tonga Independent", "url": "https://tongaindependent.com" },
   { "name": "Herb Sutter", "url": "https://herbsutter.com", "keyify_name": "herbsutter" },
   { "name": "Bjarne Stroustrup", "url": "https://www.stroustrup.com", "keyify_name": "bjarnestroustrup" },
   { "name": "GCC MCF", "url": "https://gcc-mcf.lhmouse.com", "keyify_name": "gccmcf", "icon": "lhmouse.webp" },
