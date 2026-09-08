@@ -1542,6 +1542,8 @@ const L = {
   plexforums_desc: "Opens the official Plex Forums, a community hub for support, troubleshooting, and media server discussions.",
   looksmax_name: "Looksmax.org",
   looksmax_desc: "A well-known online community and discussion forum focused on male self-improvement, facial aesthetics, fitness, grooming, and personal style enhancement.",
+  videolan_discourse_name: "VideoLAN Forum",
+  videolan_discourse_desc: "The official community and support forum for VideoLAN projects, including VLC media player, libVLC, x264, and multimedia development discussions.",
   ra2diy_name: "RA2 DIY",
   ra2diy_desc: "A community forum focused on modding and customizing Red Alert 2. Includes tools, tutorials, and user creations.",
   v2ex_name: "V2EX",

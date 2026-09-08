@@ -5612,6 +5612,13 @@ export const categories = [
         url: "https://looksmax.org"
       },
       {
+        name: "VideoLAN Forum",
+        nameKey: "videolan_discourse_name",
+        descriptionKey: "videolan_discourse_desc",
+        icon: "icons/pwa/videolan_discourse.webp",
+        url: "https://discourse.videolan.org"
+      },
+      {
         name: "RA2 DIY",
         nameKey: "ra2diy_name",
         descriptionKey: "ra2diy_desc",
