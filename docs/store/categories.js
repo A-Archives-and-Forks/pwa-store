@@ -557,6 +557,15 @@ export const categories = [
         apptype2: "wrapper",
         url: "https://isc.sans.edu"
       },
+      {
+        name: "CVE Program",
+        nameKey: "cve_program_name",
+        descriptionKey: "cve_program_desc",
+        icon: "icons/msedge/cve_program.webp",
+        url2: "../msedge/cve_program",
+        apptype2: "wrapper",
+        url: "https://www.cve.org"
+      },
     ]
   },
   {

@@ -49,6 +49,9 @@ const L = {
   genpass_desc: "GenPass is a free, open-source online password generator. It creates cryptographically secure passwords for everyone, with a simple interface and GitHub-hosted source code.",
   sans_isc_name: "SANS Internet Storm Center",
   sans_isc_desc: "A global cooperative cyber threat monitoring and alert system that provides daily analysis of emerging security threats and vulnerabilities.",
+  cve_program_name: "CVE Program",
+  cve_program_desc: "The official catalog of publicly disclosed cybersecurity vulnerabilities and exposures (CVE Records). Provides standardized vulnerability identification and lookup.",
+
   hibp_name: "Have I Been Pwned",
   hibp_desc: "Opens Have I Been Pwned, a security service for checking whether your email or accounts appeared in known data breaches.",
   "time_name": "Time",
